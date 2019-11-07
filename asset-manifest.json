@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Andrii-Pavlenko/todoApp1/static/css/main.afee8014.chunk.css",
+    "main.js": "/Andrii-Pavlenko/todoApp1/static/js/main.904eb94d.chunk.js",
+    "main.js.map": "/Andrii-Pavlenko/todoApp1/static/js/main.904eb94d.chunk.js.map",
+    "runtime~main.js": "/Andrii-Pavlenko/todoApp1/static/js/runtime~main.c0b3792d.js",
+    "runtime~main.js.map": "/Andrii-Pavlenko/todoApp1/static/js/runtime~main.c0b3792d.js.map",
+    "static/js/2.3e5eadab.chunk.js": "/Andrii-Pavlenko/todoApp1/static/js/2.3e5eadab.chunk.js",
+    "static/js/2.3e5eadab.chunk.js.map": "/Andrii-Pavlenko/todoApp1/static/js/2.3e5eadab.chunk.js.map",
+    "index.html": "/Andrii-Pavlenko/todoApp1/index.html",
+    "precache-manifest.bf851b3d32dd26b9150563efa7a6345a.js": "/Andrii-Pavlenko/todoApp1/precache-manifest.bf851b3d32dd26b9150563efa7a6345a.js",
+    "service-worker.js": "/Andrii-Pavlenko/todoApp1/service-worker.js",
+    "static/css/main.afee8014.chunk.css.map": "/Andrii-Pavlenko/todoApp1/static/css/main.afee8014.chunk.css.map"
+  }
+}
